@@ -1,3 +1,13 @@
+วิธีติดตั้ง
+
+1. git clone https://github.com/ohmfordev/bun-react-client.git
+
+ิ2. bun install
+
+3. bun run dev
+
+
+
 
 ## index.html
 

@@ -8,8 +8,8 @@ import App from './App';
 const AppRouter = () => (
   <Router>
     <Routes>
-      <Route path="/" element={<App />} />
-      <Route path="/product" element={<ProductPage />} />
+      <Route path="/" element={<ProductPage />} />
+      <Route path="/product" element={<App />} />
     </Routes>
   </Router>
 );

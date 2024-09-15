@@ -1,0 +1,1 @@
+docker buildx build -t ohmfordevdocker/fe.react.bun:0.1 . --push 
